@@ -9,7 +9,7 @@
 npm install request --save
 ```
 [cheerio](https://www.npmjs.com/package/cheerio)  
->依赖描述：Fast, flexible & lean implementation of core jQuery designed specifically for the server.
+>依赖描述：Fast, flexible & lean implementation of core jQuery designed specifically for the server.     
 >类jq的方式在服务器端操作dom   
 ```javascript
 npm install cheerio --save
