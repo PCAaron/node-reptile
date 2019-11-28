@@ -1,0 +1,21 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "description": "reptile with node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "node",
+    "reptile"
+  ],
+  "author": "aaron",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.5.0",
+    "request": "^2.88.0"
+  }
+}
